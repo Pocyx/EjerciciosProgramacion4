@@ -35,7 +35,7 @@ public class Ejer10Tema4 {
         }else if((dia>=24 && mes==8) || (dia<=23 && mes==9 )){
             System.out.print("Virgo ");
         }else if((dia>=24 && mes==9) || (dia<=23 && mes==10 )){
-            System.out.print("Libra ");
+            System.out.print("Libra los domingos ");
         }else if((dia>=24 && mes==10) || (dia<=22 && mes==11 )){
             System.out.print("Scropio ");
         }else if((dia>=23 && mes==11) || (dia<=21 && mes==12 )){
